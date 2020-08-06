@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactprojects/static/css/main.6b889034.chunk.css",
+    "main.js": "/reactprojects/static/js/main.87678a2b.chunk.js",
+    "main.js.map": "/reactprojects/static/js/main.87678a2b.chunk.js.map",
+    "runtime-main.js": "/reactprojects/static/js/runtime-main.39a1d1b7.js",
+    "runtime-main.js.map": "/reactprojects/static/js/runtime-main.39a1d1b7.js.map",
+    "static/js/2.b71650dd.chunk.js": "/reactprojects/static/js/2.b71650dd.chunk.js",
+    "static/js/2.b71650dd.chunk.js.map": "/reactprojects/static/js/2.b71650dd.chunk.js.map",
+    "index.html": "/reactprojects/index.html",
+    "precache-manifest.58b9a51d5dbfbfa036a5275d55260eb1.js": "/reactprojects/precache-manifest.58b9a51d5dbfbfa036a5275d55260eb1.js",
+    "service-worker.js": "/reactprojects/service-worker.js",
+    "static/css/main.6b889034.chunk.css.map": "/reactprojects/static/css/main.6b889034.chunk.css.map",
+    "static/js/2.b71650dd.chunk.js.LICENSE.txt": "/reactprojects/static/js/2.b71650dd.chunk.js.LICENSE.txt",
+    "static/media/mysticker.png": "/reactprojects/static/media/mysticker.213f2665.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39a1d1b7.js",
+    "static/js/2.b71650dd.chunk.js",
+    "static/css/main.6b889034.chunk.css",
+    "static/js/main.87678a2b.chunk.js"
+  ]
+}
